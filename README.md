@@ -25,6 +25,6 @@ Desenvolvedor com foco em Back-end, cursando Análise e Desenvolvimento de Siste
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seltonjoa0&show_icons=true&theme=transparent&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seltonjoao0&show_icons=true&theme=transparent&hide_border=true)
 
 </div>
