@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou Selton Fonseca 👋
 
-<!--
-**seltonjoa0/seltonjoa0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor com foco em Back-end, cursando Análise e Desenvolvimento de Sistemas e de Gestão de TI, tenho formação Técnica em Desenvolvimento de Sistemas e atuação em projetos de pesquisa tecnológica envolvendo IA, sistemas embarcados e fabricação digital. Além da parte técnica, também me destaco pelo interesse na área de gestão de TI e organização de processos, buscando desenvolver uma visão completa da área.
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Node.js](https://img.shields.io/badge/Node.js-333?style=for-the-badge&logo=node.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-333?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-333?style=for-the-badge&logo=mysql)
+![HTML5](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=css3)
+
+---
+
+## Contato
+
+<!-- ALTERE O LINK DO LINKEDIN ABAIXO -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-333?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/selton-fonseca/)
+
+<!-- ALTERE O EMAIL ABAIXO -->
+[![Email](https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail)](mailto:seltonjfonseca@gmail.com)
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seltonjoa0&show_icons=true&theme=transparent&hide_border=true)
+
+</div>
