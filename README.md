@@ -15,14 +15,9 @@ Desenvolvedor com foco em Back-end, cursando Análise e Desenvolvimento de Siste
 
 ## Contato
 
-<!-- ALTERE O LINK DO LINKEDIN ABAIXO -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-333?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/selton-fonseca/)
 
-<!-- ALTERE O EMAIL ABAIXO -->
 [![Email](https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail)](mailto:seltonjfonseca@gmail.com)
 
----
-
-![Selton's GitHub stats](https://github-readme-stats.vercel.app/api?username=seltonjoao0&show_icons=true)
 
 </div>
